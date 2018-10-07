@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <div class="jumbotron jumbotron-fluid mt-5 pt-5">
+      <div class="container">
+        <h1 class="display-4 text-danger">page 403</h1>
+      </div>
+    </div>
+  </div>
+</template>
+

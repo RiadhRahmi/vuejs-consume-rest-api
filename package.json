@@ -1,0 +1,61 @@
+{
+  "name": "vuejs-consume-rest-api",
+  "description": "A Vue.js project",
+  "version": "1.0.0",
+  "author": "Riadh Rahmi <rahmiriadh@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "dependencies": {
+    "Base64": "^1.0.1",
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
+    "base-64": "^0.1.0",
+    "bootstrap": "^4.1.3",
+    "bootstrap-daterangepicker": "^3.0.3",
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "chart.js": "^2.7.2",
+    "daterangepicker": "^3.0.3",
+    "expose-loader": "^0.7.5",
+    "file-saver": "^1.3.8",
+    "html2pdf.js": "^0.9.0",
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1",
+    "jspdf": "^1.4.1",
+    "mockjs": "^1.0.1-beta3",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.2",
+    "v-tooltip": "^2.0.0-rc.33",
+    "vue": "^2.5.11",
+    "vue-2-crumbs": "^0.5.2",
+    "vue-datatable": "^1.0.4",
+    "vue-i18n": "^8.1.0",
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.0.1",
+    "vue2-datatable-component": "^2.3.1",
+    "vuelidate": "^0.7.4",
+    "vuex": "^3.0.1",
+    "xlsx": "^0.14.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "cross-env": "^5.0.5",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.4",
+    "vue-loader": "^13.0.5",
+    "vue-template-compiler": "^2.4.4",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  }
+}

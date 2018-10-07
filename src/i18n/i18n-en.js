@@ -1,0 +1,9 @@
+export default {
+  hello: 'hello world',
+  title: 'Title',
+  author: 'Author',
+  published_at: 'Published at ',
+  image: 'Image',
+  description: 'Description',
+  submit: 'Submit'
+}
