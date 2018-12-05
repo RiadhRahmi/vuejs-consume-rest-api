@@ -1,4 +1,4 @@
-# <a href="https://github.com/RiadhRahmi/example-api-laravel" target="_blank">vuejs-consume-rest-api</a>
+# Example how to Consume <a href="https://github.com/RiadhRahmi/example-api-laravel" target="_blank"> REST API </a>  with Vue.js  
 
 > A Vue.js project
 
