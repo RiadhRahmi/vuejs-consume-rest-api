@@ -26,7 +26,7 @@
     "jquery-ui": "^1.12.1",
     "jspdf": "^1.4.1",
     "mockjs": "^1.0.1-beta3",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "prop-types": "^15.6.2",
     "v-tooltip": "^2.0.0-rc.33",
     "vue": "^2.5.11",
