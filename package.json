@@ -33,7 +33,7 @@
     "vue-2-crumbs": "^0.5.2",
     "vue-datatable": "^1.0.4",
     "vue-i18n": "^8.1.0",
-    "vue-resource": "^1.5.1",
+    "vue-resource": "^1.5.3",
     "vue-router": "^3.0.1",
     "vue2-datatable-component": "^2.3.1",
     "vuelidate": "^0.7.4",
