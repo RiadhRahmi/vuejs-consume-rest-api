@@ -1,7 +1,7 @@
 # Example how to Consume <a href="https://github.com/RiadhRahmi/example-api-laravel" target="_blank"> REST API </a>  with Vue.js  
 
 
-<img src="https://github.com/RiadhRahmi/reactjs-consume-rest-api/blob/master/public/app.gif" width="100%"/>
+Demo https://www.youtube.com/watch?v=RRtt-mBkLfc
 
 > A Vue.js project
 
